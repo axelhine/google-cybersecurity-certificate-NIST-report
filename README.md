@@ -3,7 +3,7 @@
 An incident analysis and security improvement plan for a denial-of-service (DoS) attack, organized around the five functions of the **NIST Cybersecurity Framework (CSF)**.
 
 > Completed as part of the Google Cybersecurity Professional Certificate portfolio.
-> **[📄 Read the full incident report (PDF)](reports/Incident_report_analysis_NIST.pdf)**
+> **[📄 Read the full incident report (PDF)](reports/Incident%20report%20analysis%20NIST.pdf)**
 
 ---
 
